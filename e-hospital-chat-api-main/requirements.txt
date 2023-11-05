@@ -1,0 +1,17 @@
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
+langchain
+mysql-connector-python
+transformers
+accelerate
+evaluate
+datasets
+peft
+torch
+huggingface_hub
+bitsandbytes
+loralib
+git+https://github.com/huggingface/transformers.git@main
+git+https://github.com/huggingface/peft.git
